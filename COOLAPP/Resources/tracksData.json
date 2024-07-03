@@ -1,0 +1,22 @@
+[
+    {
+        "name": "FIELD TRIP",
+        "album": "VULTURES 2",
+        "artist": "KANYE WEST",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "imageName": "Vultures2",
+        "mediaName": "field trip 12.21."
+    },
+    {
+        "name": "BIGGER",
+        "album": "THE PARTY NEVER ENDS",
+        "artist": "JUICE WRLD",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "imageName": "TPNE",
+        "mediaName": "Juice_Wrld_-_bigger_v1.5_margate167"
+    },
+]
