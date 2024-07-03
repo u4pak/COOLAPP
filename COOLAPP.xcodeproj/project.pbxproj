@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F225F2682C35C88200CFD210 /* Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F225F2672C35C88200CFD210 /* Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3 */; };
 		F23286DD2C30E3F400751B7E /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23286DC2C30E3F400751B7E /* Track.swift */; };
 		F23286DF2C30E48200751B7E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F23286DE2C30E48200751B7E /* ModelData.swift */; };
 		F23286E12C30E55F00751B7E /* tracksData.json in Resources */ = {isa = PBXBuildFile; fileRef = F23286E02C30E55F00751B7E /* tracksData.json */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F225F2672C35C88200CFD210 /* Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3"; sourceTree = "<group>"; };
 		F23286DC2C30E3F400751B7E /* Track.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
 		F23286DE2C30E48200751B7E /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		F23286E02C30E55F00751B7E /* tracksData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = tracksData.json; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			children = (
 				F23286EC2C30EF6700751B7E /* field trip 12.21..mp3 */,
 				F23286EE2C30EFDD00751B7E /* Juice_Wrld_-_bigger_v1.5_margate167.mp3 */,
+				F225F2672C35C88200CFD210 /* Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3 */,
 			);
 			path = Media;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F23286ED2C30EF6700751B7E /* field trip 12.21..mp3 in Resources */,
+				F225F2682C35C88200CFD210 /* Louis-Bags-x-2-22-22-x-REFThe-Ga.mp3 in Resources */,
 				F29D9AD02C2FC8A400F30232 /* Preview Assets.xcassets in Resources */,
 				F23286E12C30E55F00751B7E /* tracksData.json in Resources */,
 				F23286EF2C30EFDD00751B7E /* Juice_Wrld_-_bigger_v1.5_margate167.mp3 in Resources */,

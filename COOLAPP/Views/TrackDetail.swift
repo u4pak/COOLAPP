@@ -90,7 +90,7 @@ struct TrackDetail: View {
     }
     
     private func setupAudio(){
-        guard let url = Bundle.main.url(forResource: track.mediaName, withExtension: "mp3")
+        guard let url = Bundle.main.url(forResource: track.mediaPath, withExtension: "mp3")
         else {
             return
         }

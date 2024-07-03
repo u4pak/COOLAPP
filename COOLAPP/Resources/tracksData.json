@@ -6,8 +6,8 @@
         "id": 1001,
         "isFeatured": true,
         "isFavorite": true,
-        "imageName": "Vultures2",
-        "mediaName": "field trip 12.21."
+        "imagePath": "Vultures2",
+        "mediaNPath": "field trip 12.21."
     },
     {
         "name": "BIGGER",
@@ -16,7 +16,7 @@
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
-        "imageName": "TPNE",
-        "mediaName": "Juice_Wrld_-_bigger_v1.5_margate167"
+        "imagePath": "TPNE",
+        "mediaPath": "Juice_Wrld_-_bigger_v1.5_margate167"
     },
 ]

@@ -14,10 +14,10 @@ struct Track: Hashable, Codable, Identifiable {
     var album: String
     var artist: String
     
-    private var imageName: String
+    private var imagePath: String
     var image: Image {
-        Image(imageName)
+        Image(imagePath)
     }
     
-    var mediaName: String
+    var mediaPath: String
 }
